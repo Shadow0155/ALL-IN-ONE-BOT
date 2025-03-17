@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTM1MTI0MTgxNjM1NTI0MjA4NQ.GBGjRP.XnLNTJvu_sednhXG1lnR_43ANrE0-XmMYblUEQ",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://shadowboy2218:shadowboy2218@discordbot.gkyzu.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
